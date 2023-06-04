@@ -106,7 +106,7 @@ hr.small {
     -ms-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .sidebar-nav {
@@ -772,6 +772,24 @@ footer {
     -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
     -ms-box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
     -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+}
+
+.btn-primary_white {
+    color: #4285f4;
+    border-color: transparent!important;
+    background: #fff;
+    text-transform: uppercase;
+    margin-top: 20px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+    -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+    -ms-box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+}
+.btn-primary_white:hover {
+    color: #fff;
+    border-color: #fff!important;
+    background: #000;
 }
 
 
