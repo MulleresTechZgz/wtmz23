@@ -435,6 +435,12 @@ button.close {
     margin-bottom: 30px;
 }
 
+@media(max-width:768px) {
+    .organizer-item {
+        min-height: 180px;
+    }
+}
+
 .organizer-item a {
     /*display: block;*/
     text-decoration: inherit;
