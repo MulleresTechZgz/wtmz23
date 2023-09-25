@@ -1014,6 +1014,10 @@ a i {
   background-color: rgba(66, 133, 244, .1);
 }
 
+.table > tbody > tr > th {
+    border-top-width: 0px !important;
+}
+
 
 /* Agenda V2 */
 .agenda-v2 .table-wrapper {
