@@ -153,63 +153,110 @@ organizers:
 
 #List for speakers
 speakers:
-  - name: Elisa Amorós Galindo
-    short_name: Elisa Amorós
-    bio: 'Diseñadora e ingeniera a partes iguales, combina la parte tecnológica y la creativa para dar soluciones a proyectos digitales. Su labor dentro de la empresa aragonesa Imascono se centra en diseñar experiencias a medida para áreas como el marketing o la formación online, apoyándose en tecnologías como la web, la Realidad Aumentada o la Realidad Virtual.<br/><br/>Ingeniera en Diseño Industrial y Desarrollo de producto y especializada en Experiencia de Usuario, lleva más de 9 años dedicada al diseño de productos digitales.'
-    image: img/ponentes/ElisaAmoros
-    image_card: img/ponentes/fichas/ElisaAmoros
+  - name: Laura Alcober
+    short_name: Laura Alcober
+    bio: ''
+    image: img/ponentes/LauraAlcober
+    image_card: img/ponentes/fichas/LauraAlcober
     twitter_account: 
-    linkedin_account: elisaamoros
-    instagram_account: amoroskova
-  - name: Beatriz Franco García
-    short_name: Beatriz Franco García
-    bio: 'Ingeniera informática en la Universidad de Zaragoza y máster de Inteligencia Artificial en la UNIR (La Rioja). Comencé mi andadura en ITAINNOVA como investigadora en el área de Inteligencia Artificial, Sistemas Cognitivos y Bigdata adquiriendo experiencia en algoritmos de Machine Learning y Deep Learning tanto para el análisis de datos numéricos como en la comprensión y tratamiento de textos mediante algoritmos y técnicas de procesamiento de lenguaje natural en español. Un parón de un año en Bitbrain me ha aportado conocimiento sobre el procesamiento y sincronización de bioseñales.'
-    image: img/ponentes/BeatrizFranco
-    image_card: img/ponentes/fichas/BeatrizFranco
-    twitter_account: 95_beafranco
-    linkedin_account: beatriz-franco-151000130
-    instagram_account: bfranco95
-  - name: Aránzazu García Aso
-    short_name: Aránzazu García
-    bio: 'Aránzazu García Aso es licenciada en Ciencias Matemáticas por la Universidad de Zaragoza y pertenece al cuerpo de Titulados Superiores de Informática del Gobierno de Aragón. <br/><br/>Toda su carrera profesional ha estado vinculada al desarrollo de proyectos de software. Desde 2019 trabaja como asesora técnica de Servicios Digitales de Aragón donde se encarga de la dirección y coordinación de proyectos. Anteriormente formó parte del servicio de informática de la DG de Tributos (2005-2019). Previamente, trabajó en el sector financiero dentro del desarrollo de SW de Caja Madrid (2000-2004).'
-    image: img/ponentes/AranzazuGarcia
-    image_card: img/ponentes/fichas/AranzazuGarcia
-    twitter_account: aranchagarc
-    linkedin_account: ar%C3%A1nzazu-garc%C3%ADa-aso-44372a238
+    linkedin_account: laura-alcober-prieto-7372b2126
+    instagram_account:
+  - name: Coral Corbacho
+    short_name: Coral Corbacho
+    bio: ''
+    image: img/ponentes/CoralCorbacho
+    image_card: 
+    twitter_account: 
+    linkedin_account: coralcorbacho
+    instagram_account:
+  - name: Noelia Cebrián Marta
+    short_name: Noelia Cebrián
+    bio: ''
+    image: img/ponentes/NoeliaCebrian
+    image_card: img/ponentes/fichas/NoeliaCebrian
+    twitter_account: noeliacebrian
+    linkedin_account: noelia-cebrian-marta-23a0b86b
     instagram_account: 
-  - name: Rosa Monge Prieto
-    short_name: Rosa Monge
-    bio: 'Fulanita Detal'
-    image: img/ponentes/RosaMonge
-    image_card: img/ponentes/fichas/RosaMonge
-    twitter_account: RoisinMinea
-    linkedin_account: rosamongeprieto
-    instagram_account: RoisinMinea
-  - name: Esther Nuez Bernal
-    short_name: Esther Nuez
-    bio: 'Esther Nuez es Ingeniera Informática por la Universidad de Zaragoza y pertenece al cuerpo de Titulados Superiores de Informática del Gobierno de Aragón desde 2015. Desde entonces trabaja en Servicios Digitales de Aragón, donde actualmente se encarga de la dirección técnica y coordinación de varios proyectos. Anteriormente trabajó en el sector privado donde participó en proyectos de banca electrónica y en proyectos para la Administración de Justicia.'
-    image: img/ponentes/EstherNuez
-    image_card: img/ponentes/fichas/EstherNuez
-    twitter_account: EstherNuez
-    linkedin_account:
+#  - name: Lorena Fernández Álvarez
+#    short_name: Lorena Fernández
+#    bio: ''
+#    image: img/ponentes/LorenaFernandez
+#    image_card: img/ponentes/fichas/LorenaFernandez
+#    twitter_account: loretahur
+#    linkedin_account: loretahur
+#    instagram_account: loretahur
+  - name: Sara Gascón Duran
+    short_name: Sara Gascón
+    bio: ''
+    image: img/ponentes/SaraGascon
+    image_card: img/ponentes/fichas/SaraGascon
+    twitter_account: 
+    linkedin_account: sara-gascon-duran-154195202
     instagram_account: 
-  - name: Némesis Pérez Zerga
-    short_name: Némesis Pérez
-    bio: 'Némesis Zerga, Diseño Gráfico y Comunicación Visual, Asunción-Paraguay 2016. Es creativa publicitaria, trabajó en campañas de sensibilización para onegés internacionales como Ammistía Internacional, WWF y Aldeas Infantiles. Reside en Zaragoza desde el 2019, emprende CuenTale, una biblioteca digital infantil que propone temas basados en derechos humanos para dialogar con la infancia. Con esta cuentoteca ha participado de numerosos programas de emprendimiento, innovación educativa y empoderamiento femenino en Aragón'
-    image: img/ponentes/NemesisPerez
-    image_card: img/ponentes/fichas/NemesisPerez
-    twitter_account: nemezerga
-    linkedin_account: n%C3%A9mesis-zerga-23009a77
-    instagram_account: nemezerga
-    instagram_account_2: cuentotecadigital
-  - name: Ana Rodríguez Salinas
-    short_name: Ana Rodríguez
-    bio: 'Joven comunicadora y amante de las nuevas tecnologías. Enfocada en el Branding y la Comunicación de Imascono, su labor dentro del estudio creativo es acercar los últimos proyectos e innovaciones tanto a la comunidad tecnológica como al público general. Algo que requiere estar al tanto de las tendencias tecnológicas y también de todos los canales de comunicación disponibles.<br/><br/>Graduada en Comunicación Audiovisual (UC3M), compagina su puesto en Imascono con la investigación dentro del área de marketing, con la publicación de artículos académicos en las revistas científicas españolas (RedMarka).'
-    image: img/ponentes/AnaRodriguez
-    image_card: img/ponentes/fichas/AnaRodriguez
-    twitter_account: anarsalinas
-    linkedin_account: ana-i-rodriguez-salinas
-    instagram_account: ana.rsalinas
+  - name: Lidia Gomez
+    short_name: Lidia Gomez
+    bio: ''
+    image: img/ponentes/LidiaGomez
+    image_card: img/ponentes/fichas/LidiaGomez
+    twitter_account: 
+    linkedin_account: 
+    instagram_account: lidia.indesign
+  - name: Sonia Martínez Becerra
+    short_name: Sonia Martínez
+    bio: ''
+    image: img/ponentes/SoniaMartinez
+    image_card: img/ponentes/fichas/SoniaMartinez
+    twitter_account: nixesonic
+    linkedin_account: sonia-martinez-becerra
+    instagram_account: 
+  - name: Pilar Mollá Ortigas
+    short_name: Pilar Mollá
+    bio: ''
+    image: img/ponentes/PilarMolla
+    image_card: img/ponentes/fichas/PilarMolla
+    twitter_account: 
+    linkedin_account: pilar-mollá-ortigas-b46002226
+    instagram_account: pilarmolla
+  - name: Miriam Moreno Bellido
+    short_name: Miriam Moreno
+    bio: ''
+    image: img/ponentes/MiriamMoreno
+    image_card: img/ponentes/fichas/MiriamMoreno
+    twitter_account: miriaminchange
+    linkedin_account: miriammorenobellido
+    instagram_account: miriaminchange
+  - name: Estela Muñoz
+    short_name: Estela Muñoz
+    bio: ''
+    image: img/ponentes/EstelaMunoz
+    image_card: 
+    twitter_account: 
+    linkedin_account: estelamunozgarcia
+    instagram_account:
+  - name: Cristina Notario Lendrino
+    short_name: Cristina Notario
+    bio: ''
+    image: img/ponentes/CristinaNotario
+    image_card: img/ponentes/fichas/CristinaNotario
+    twitter_account: CristinaNotario
+    linkedin_account: cristina-notario-lendrino
+    instagram_account: crisnotario
+#  - name: María Pilar Sánchez Sarasa
+#    short_name: María Pilar Sánchez
+#    bio: ''
+#    image: img/ponentes/MariaPilarSanchez
+#    image_card: img/ponentes/fichas/MariaPilarSanchez
+#    twitter_account: asincrona
+#    linkedin_account: mapisan
+#    instagram_account:
+  - name: Miriam de Tomás
+    short_name: Miriam de Tomás
+    bio: ''
+    image: img/ponentes/MiriamDeTomas
+    image_card: 
+    twitter_account: 
+    linkedin_account: mdetomasalvarez
+    instagram_account:
 
 #List for mentors
 #mentors:
@@ -219,59 +266,16 @@ speakers:
 #    image: img/ponentes/foto2_1
 #    image_card: 
 #    twitter_account: 
-#    linkedin_account:
-#  - name: Fulanita Detal
-#    short_name: Fulanita Detal
-#    bio: 'Fulanita Detal'
-#    image: img/ponentes/foto2_5
-#    image_card: 
-#    twitter_account: 
-#    linkedin_account:
-#  - name: Fulanita Detal
-#    short_name: Fulanita Detal
-#    bio: 'Fulanita Detal'
-#    image: img/ponentes/foto2_3
-#    image_card: 
-#    twitter_account: 
-#    linkedin_account:
-#  - name: Fulanita Detal
-#    short_name: Fulanita Detal
-#    bio: 'Fulanita Detal'
-#    image: img/ponentes/foto2_2
-#    image_card: 
-#    twitter_account: 
-#    linkedin_account:
 
 #List for volunteers
-volunteers:
-  - name: Fulanita Detal
-    short_name: Fulanita Detal
-    bio: 'Fulanita Detal'
-    image: img/ponentes/foto1
-    image_card: 
-    twitter_account: 
-    linkedin_account:
-  - name: Fulanita Detal
-    short_name: Fulanita Detal
-    bio: 'Fulanita Detal'
-    image: img/ponentes/foto4
-    image_card: 
-    twitter_account: 
-    linkedin_account:
-  - name: Fulanita Detal
-    short_name: Fulanita Detal
-    bio: 'Fulanita Detal'
-    image: img/ponentes/foto2
-    image_card: 
-    twitter_account: 
-    linkedin_account:
-  - name: Fulanita Detal
-    short_name: Fulanita Detal
-    bio: 'Fulanita Detal'
-    image: img/ponentes/foto3
-    image_card: 
-    twitter_account: 
-    linkedin_account:
+#volunteers:
+#  - name: Fulanita Detal
+#    short_name: Fulanita Detal
+#    bio: 'Fulanita Detal'
+#    image: img/ponentes/foto1
+#    image_card: 
+#    twitter_account: 
+#    linkedin_account:
 
 #List for sponsors
 #sponsors_platinum:
@@ -280,43 +284,15 @@ volunteers:
 #    image: img/patrocinadores/generico/empresa1.png
 #    web: #
 #    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa2.png
-#    web: #
-#    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa3.png
-#    web: #
-#    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa4.png
-#    web: #
-#    twitter:
+#    instagram: 
 
 #sponsors_gold:
-#  - name: Empresa Genérica
+#  - name: Deiser
 #    text: 
-#    image: img/patrocinadores/generico/empresa1.png
-#    web: #
-#    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa2.png
-#    web: #
-#    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa3.png
-#    web: #
-#    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa4.png
-#    web: #
-#    twitter: 
+#    image: img/patrocinadores/gold/deiser.png
+#    web: https://www.deiser.com/es/
+#    twitter: deiser
+#    instagram: deiserteam
 
 #sponsors_silver:
 #  - name: Empresa Genérica
@@ -324,16 +300,7 @@ volunteers:
 #    image: img/patrocinadores/generico/empresa1.png
 #    web: #
 #    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa2.png
-#    web: #
-#    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa3.png
-#    web: #
-#    twitter:     
+#    instagram:  
 
 #sponsors_others:
 #  - name: Empresa Genérica
@@ -341,22 +308,13 @@ volunteers:
 #    image: img/patrocinadores/generico/empresa1.png
 #    web: #
 #    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa2.png
-#    web: #
-#    twitter: 
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa3.png
-#    web: #
-#    twitter: 
+#    instagram: 
 
 # Agenda
 talks_track_1:
   - time: '09:30-10:00'
     track: all
-    name: REGISTRO
+    name: 'REGISTRO'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -364,76 +322,232 @@ talks_track_1:
   - time: '10:00-10:15'
     track: all
     name: 'PRESENTACIÓN Staff WTM Zaragoza'
-    #second_name: 'Inauguración: Pilar Alegría, Consejera de Innovación, Investigación y Universidad y <br/> Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
-    #second_name: 'Inauguración: Elena Giner (Ayuntamiento de Zaragoza) y Pilar Alegría (Gobierno de Aragón)'
+    #second_name: ''
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '10:15-10:55'
+  - time: '10:15-10:50'
     track: 1
-    name: 'El Metaverso de la Realidad Extendida'
-    descrip: 'Desde el cambio de estrategia de Facebook a Meta a finales del 2021, el sector tecnológico se ha movilizado a lo grande. Dirigiendo todos sus esfuerzos en el desarrollo de lo que ya se considera la siguiente generación de internet.<br/><br/>El Metaverso se abre ante nuestros ojos como el universo virtual definitivo, al que se espera que el comercio, el entretenimiento, el ocio, cultura, industria y negocios se trasladen a lo largo de los próximos años. Pero el cómo, todavía está bajo construcción. Una de las posibles soluciones la protagoniza el estudio tecnológico Imascono, quienes desde su línea Business To Metaverse, crean puentes entre las tecnologías de la Realidad Extendida con las nuevas experiencias dentro del universo virtual. <br/><br/>Para hablar de todas estas tecnologías inmersivas y sobre los proyectos actuales dentro del Metaverso nos acompañan Elisa Amorós y Ana Rodríguez en una ponencia donde la teoría y la práctica, la ciencia ficción y la realidad se unen por un mismo objetivo: acercar las nuevas tendencias y tecnologías a todos los públicos.'
-    speaker: 'Elisa Amorós Galindo y Ana Rodríguez Salinas'
+    name: 'Trucos ChatGPT: escribe prompts como si fueras un pro'
+    descrip: ''
+    topics: 'Inteligencia Artificial'
+    speaker: 'Cristina Notario Lendrino'
     bio_speaker: 
     twitter_speaker: 
+    image_card: 
     url_youtube: 
-  - time: '11:00-11:40'
+  - time: '10:55-11:30'
     track: 1
-    name: 'Inteligencia Artificial con propósito · Caso de innovación educativa: iCuento'
-    descrip: '¿Inteligencia artificial en el sector educativo? Presentaremos el caso "iCuento" desarrollado en conjunto con ITAINNOVA como parte de los proyectos seleccionados en las fase II de la convocatoria INNOIDEA.<br/><br/>Luego de presentar el proyecto donde realizamos un motor de IA que sugiere frases para iniciar, continuar o concluir una frase de un cuento, describiremos las estructuras empleadas, desarrollaremos el proceso de trabajo realizado, y evaluaremos los resultados además de intentar responder desde nuestra experiencia con el caso el debate que plantea la IA en el sector educativo y como gracias a nuestras lecturas, canalizamos el uso de la herramienta en aulas de 5to. y 6to. de primaria.'
-    speaker: 'Beatriz Franco García y Némesis Pérez Zerga '
+    name: 'Al ritmo de Beat Saber llevando el UX a otro nivel'
+    descrip: ''
+    topics: 'UX, Diseño, accesibilidad'
+    speaker: 'Coral Corbacho, Miriam de Tomás, Estela Muñoz'
     bio_speaker: 
     twitter_speaker: 
+    image_card:
+    url_youtube: 
+  - time: '11:35-12:10'
+    track: 1
+    name: 'Diseño vs Desarrollo. El milagro del match entre dos polos opuestos'
+    descrip: ''
+    topics: 'Programación / Desarrollo, UX, Diseño'
+    speaker: 'Sonia Martínez Becerra'
+    bio_speaker: 
+    twitter_speaker: 
+    image_card: 
     url_youtube:
-  - time: '11:45-12:15'
+  - time: '12:15-12:45'
     track: all
-    name: DESCANSO CAFÉ
+    name: 'DESCANSO CAFÉ'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '12:15-12:55'
+  - time: '12:45-13:20'
     track: 1
-    name: 'Cómo hacer ingeniería del SW en una administración pública y no morir en el intento (de momento)'
-    descrip: '¿Se puede hacer Ingeniería del SW en la Administración Pública? ¿Son dos mundos incompatibles? Contaremos nuestra experiencia realista desde una unidad de la Administración en la que se trabaja para mejorar los servicios públicos con ayuda del diseño y la tecnología. No pretende dar una perspectiva teórica, sino contar situaciones y proyectos reales que se abordan actualmente en Servicios Digitales de Aragón.'
-    speaker: 'Aránzazu García Aso y Esther Nuez Bernal'
+    name: 'El aula Kanhuan!'
+    descrip: ''
+    topics: 'Robótica, Programación / Desarrollo, Educación, Inteligencia Artificial, Metodologías Ágiles, Comunicación'
+    speaker: 'Noelia Cebrián Marta'
     bio_speaker: 
     twitter_speaker: 
+    image_card: 
     url_youtube: 
-  - time: '13:00-13:40'
+  - time: '13:25-14:00'
     track: 1
-    name: '¿Qué hace una ingeniera como tú en una empresa (biotecnológica) como esa?'
-    descrip: 'Experiencia emprendedora de transferencia de conocimiento desde el mundo de la academia a la fundación de una startup.'
-    speaker: 'Rosa Monge Prieto'
+    name: '¿Computación Cuántica: El Futuro de la Tecnología o Ciencia Ficción?'
+    descrip: ''
+    topics: 'Programación / Desarrollo, Inteligencia Artificial, Nuevas tecnologías emergentes. Computación cuántica'
+    speaker: 'Pilar Mollá Ortigas'
     bio_speaker: 
     twitter_speaker: 
+    image_card: 
     url_youtube: 
-  - time: '13:45-14:00'
+  - time: '14:05-14:25'
+    track: 1
+    name: 'Charla pendiente de anuncia'
+    descrip: ''
+    topics: ''
+    speaker: ''
+    bio_speaker: 
+    twitter_speaker: 
+    image_card: 
+    url_youtube:
+  - time: '14:30-14:35'
+    track: all
+    name: 'Fotografía de grupo'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '14:35-16:00'
+    track: all
+    name: 'COMIDA Y NETWORKING (Cantina)'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '16:00-16:35'
+    track: 1
+    name: 'Motivación, Diseño, Impresión 3D y Emprendimiento Social'
+    descrip: ''
+    topics: 'Motivación, Diseño, Impresión 3D y Emprendimiento Social'
+    speaker: 'Sara Gascon Duran y Lidia Gomez'
+    bio_speaker: 
+    twitter_speaker: 
+    image_card: 
+    url_youtube: 
+  - time: '16:40-17:15'
+    track: 1
+    name: 'Dungeons & Datos: Bestiario de antipatrones y cómo derrotarlos'
+    descrip: ''
+    topics: 'Programación / Desarrollo, Data'
+    speaker: 'Laura Alcober Prieto'
+    bio_speaker: 
+    twitter_speaker: 
+    image_card: 
+    url_youtube: 
+  - time: '17:20-17:55'
+    track: 1
+    name: 'Las Self-Orgs y cómo llevar tu empresa a un nuevo paradigma'
+    descrip: ''
+    topics: 'Nuevos Modelos Gobernanza'
+    speaker: 'Miriam Moreno Bellido'
+    bio_speaker: 
+    twitter_speaker: 
+    image_card: 
+    url_youtube:
+  - time: '18:00-18:25'
     track: all
     name: 'CIERRE Staff WTM Zaragoza'
-    #second_name: 'Clausura: Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
+    #second_name: ''
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '14:00-14:10'
+  - time: '18:25-18:30'
     track: all
-    name: Fotografía de grupo
+    name: 'Fotografía de grupo'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '14:10-15:45'
+  - time: '18:30-20:00'
     track: all
-    name: COMIDA Y NETWORKING
+    name: 'DJ Set y Networking (Cantina)'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-
+  
 talks_track_2: 
 
 workshops_track_1: 
+  - time: '09:30-10:00'
+    track: all
+    name: 'REGISTRO'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '10:00-10:15'
+    track: all
+    name: 'PRESENTACIÓN Staff WTM Zaragoza (Auditorio)'
+    #second_name: ''
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '10:15-12:10'
+    track: 1
+    name: 'Taller 1'
+    descrip: ''
+    topics: ''
+    speaker: ''
+    bio_speaker: 
+    twitter_speaker: 
+    image_card: 
+    url_youtube:
+  - time: '12:15-12:45'
+    track: all
+    name: 'DESCANSO CAFÉ'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '12:45-14:25'
+    track: 1
+    name: 'Taller 2'
+    descrip: ''
+    topics: ''
+    speaker: ''
+    bio_speaker: 
+    twitter_speaker: 
+    image_card: 
+    url_youtube: 
+  - time: '14:30-14:35'
+    track: all
+    name: 'Fotografía de grupo (Auditorio)'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '14:35-16:00'
+    track: all
+    name: 'COMIDA Y NETWORKING (Cantina)'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '16:00-18:00'
+    track: 1
+    name: ''
+    descrip: ''
+    speaker: ''
+    bio_speaker: 
+    twitter_speaker: 
+    url_youtube: 
+  - time: '18:00-18:25'
+    track: all
+    name: 'CIERRE Staff WTM Zaragoza (Auditorio)'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '18:25-18:30'
+    track: all
+    name: 'Fotografía de grupo (Auditorio)'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '18:30-20:00'
+    track: all
+    name: 'DJ Set y Networking (Cantina)'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
 
 workshops_track_2: 
