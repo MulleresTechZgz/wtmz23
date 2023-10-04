@@ -165,7 +165,7 @@ speakers:
     short_name: Coral Corbacho
     bio: ''
     image: img/ponentes/CoralCorbacho
-    image_card: 
+    image_card: img/ponentes/fichas/CoralCorbacho
     twitter_account: 
     linkedin_account: coralcorbacho
     instagram_account:
@@ -177,14 +177,14 @@ speakers:
     twitter_account: noeliacebrian
     linkedin_account: noelia-cebrian-marta-23a0b86b
     instagram_account: 
-#  - name: Lorena Fernández Álvarez
-#    short_name: Lorena Fernández
-#    bio: ''
-#    image: img/ponentes/LorenaFernandez
-#    image_card: img/ponentes/fichas/LorenaFernandez
-#    twitter_account: loretahur
-#    linkedin_account: loretahur
-#    instagram_account: loretahur
+  - name: Lorena Fernández Álvarez
+    short_name: Lorena Fernández
+    bio: ''
+    image: img/ponentes/LorenaFernandez
+    image_card: img/ponentes/fichas/LorenaFernandez
+    twitter_account: loretahur
+    linkedin_account: loretahur
+    instagram_account: loretahur
   - name: Sara Gascón Duran
     short_name: Sara Gascón
     bio: ''
@@ -225,14 +225,6 @@ speakers:
     twitter_account: miriaminchange
     linkedin_account: miriammorenobellido
     instagram_account: miriaminchange
-  - name: Estela Muñoz
-    short_name: Estela Muñoz
-    bio: ''
-    image: img/ponentes/EstelaMunoz
-    image_card: 
-    twitter_account: 
-    linkedin_account: estelamunozgarcia
-    instagram_account:
   - name: Cristina Notario Lendrino
     short_name: Cristina Notario
     bio: ''
@@ -241,22 +233,22 @@ speakers:
     twitter_account: CristinaNotario
     linkedin_account: cristina-notario-lendrino
     instagram_account: crisnotario
-#  - name: María Pilar Sánchez Sarasa
-#    short_name: María Pilar Sánchez
-#    bio: ''
-#    image: img/ponentes/MariaPilarSanchez
-#    image_card: img/ponentes/fichas/MariaPilarSanchez
-#    twitter_account: asincrona
-#    linkedin_account: mapisan
-#    instagram_account:
+  - name: María Pilar Sánchez Sarasa
+    short_name: María Pilar Sánchez
+    bio: ''
+    image: img/ponentes/MariaPilarSanchez
+    image_card: ''
+    twitter_account: asincrona
+    linkedin_account: mapisan
+    instagram_account:
   - name: Miriam de Tomás
     short_name: Miriam de Tomás
     bio: ''
     image: img/ponentes/MiriamDeTomas
-    image_card: 
+    image_card: img/ponentes/fichas/MiriamDeTomas
     twitter_account: 
     linkedin_account: mdetomasalvarez
-    instagram_account:
+    instagram_account: miritiritidta
 
 #List for mentors
 #mentors:
@@ -335,17 +327,17 @@ talks_track_1:
     speaker: 'Cristina Notario Lendrino'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Charla001
     url_youtube: 
   - time: '10:55-11:30'
     track: 1
     name: 'Al ritmo de Beat Saber llevando el UX a otro nivel'
     descrip: ''
     topics: 'UX, Diseño, accesibilidad'
-    speaker: 'Coral Corbacho, Miriam de Tomás, Estela Muñoz'
+    speaker: 'Coral Corbacho, Miriam de Tomás'
     bio_speaker: 
     twitter_speaker: 
-    image_card:
+    image_card: img/charlas/Charla002
     url_youtube: 
   - time: '11:35-12:10'
     track: 1
@@ -355,7 +347,7 @@ talks_track_1:
     speaker: 'Sonia Martínez Becerra'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Charla003
     url_youtube:
   - time: '12:15-12:45'
     track: all
@@ -372,7 +364,7 @@ talks_track_1:
     speaker: 'Noelia Cebrián Marta'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Charla004
     url_youtube: 
   - time: '13:25-14:00'
     track: 1
@@ -382,11 +374,11 @@ talks_track_1:
     speaker: 'Pilar Mollá Ortigas'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Charla005
     url_youtube: 
   - time: '14:05-14:25'
     track: 1
-    name: 'Charla pendiente de anuncia'
+    name: 'Charla pendiente de anunciar'
     descrip: ''
     topics: ''
     speaker: ''
@@ -410,13 +402,13 @@ talks_track_1:
     twitter_speaker: 
   - time: '16:00-16:35'
     track: 1
-    name: 'Motivación, Diseño, Impresión 3D y Emprendimiento Social'
+    name: 'Cómo la tecnología impulsa la revolución de las prótesis para el cáncer de mama'
     descrip: ''
     topics: 'Motivación, Diseño, Impresión 3D y Emprendimiento Social'
     speaker: 'Sara Gascon Duran y Lidia Gomez'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Charla006
     url_youtube: 
   - time: '16:40-17:15'
     track: 1
@@ -426,7 +418,7 @@ talks_track_1:
     speaker: 'Laura Alcober Prieto'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Charla007
     url_youtube: 
   - time: '17:20-17:55'
     track: 1
@@ -436,7 +428,7 @@ talks_track_1:
     speaker: 'Miriam Moreno Bellido'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Charla008
     url_youtube:
   - time: '18:00-18:25'
     track: all
@@ -481,13 +473,13 @@ workshops_track_1:
     twitter_speaker: 
   - time: '10:15-12:10'
     track: 1
-    name: 'Taller 1'
+    name: 'Cobots en acción'
     descrip: ''
     topics: ''
-    speaker: ''
+    speaker: 'María Pilar Sanchez Sarasa'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Taller001
     url_youtube:
   - time: '12:15-12:45'
     track: all
@@ -498,13 +490,13 @@ workshops_track_1:
     twitter_speaker: 
   - time: '12:45-14:25'
     track: 1
-    name: 'Taller 2'
+    name: 'Nobel Run. Cómo visibilizar a mujeres científicas e inventoras jugando'
     descrip: ''
     topics: ''
-    speaker: ''
+    speaker: 'Lorena Fernandez'
     bio_speaker: 
     twitter_speaker: 
-    image_card: 
+    image_card: img/charlas/Taller002
     url_youtube: 
   - time: '14:30-14:35'
     track: all
