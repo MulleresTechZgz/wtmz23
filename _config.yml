@@ -278,13 +278,13 @@ speakers:
 #    twitter: 
 #    instagram: 
 
-#sponsors_gold:
-#  - name: Deiser
-#    text: 
-#    image: img/patrocinadores/gold/deiser.png
-#    web: https://www.deiser.com/es/
-#    twitter: deiser
-#    instagram: deiserteam
+sponsors_gold:
+  - name: Deiser
+    text: 
+    image: img/patrocinadores/gold/deiser.png
+    web: https://www.deiser.com/es/
+    twitter: deiser
+    instagram: deiserteam
 
 #sponsors_silver:
 #  - name: Empresa Genérica
