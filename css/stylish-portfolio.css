@@ -437,7 +437,7 @@ button.close {
 
 @media(max-width:768px) {
     .organizer-item {
-        min-height: 180px;
+        min-height: 200px;
     }
 }
 
