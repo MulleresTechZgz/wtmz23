@@ -26,7 +26,7 @@ telephone:
 copyright:
 
 # Tickets
-sold_out_tickets_first: true
+sold_out_tickets_first: false
 sold_out_tickets: false
 
 # Timezone
@@ -285,6 +285,12 @@ sponsors_gold:
     web: https://www.deiser.com/es/
     twitter: deiser
     instagram: deiserteam
+  - name: 540
+    text: 
+    image: img/patrocinadores/gold/540.png
+    web: https://www.540deg.com/
+    twitter: 540deg
+    instagram: 540deg
 
 #sponsors_silver:
 #  - name: Empresa Genérica
