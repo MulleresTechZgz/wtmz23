@@ -373,6 +373,13 @@ hr.small {
     background-color: #0076a7;
     height: 33vw !important;
 }
+.modal-shirt-sizing-card {
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    background-color: #0076a7;
+    height: 15vw !important;
+}
 
 .wtm-modal-content-left {
       display: table-cell;
@@ -401,17 +408,26 @@ hr.small {
     .modal-image-card {
         height: 68vw !important;
     }
+    .modal-shirt-sizing-card {
+        height: 33vw !important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
     .modal-image-card {
         height: 59vw !important;
     }
+    .modal-shirt-sizing-card {
+        height: 26vw !important;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1025px) {
     .modal-image-card {
         height: 44vw !important;
+    }
+    .modal-shirt-sizing-card {
+        height: 21vw !important;
     }
 }
 
