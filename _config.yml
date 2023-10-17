@@ -199,7 +199,7 @@ speakers:
     image: img/ponentes/LidiaGomez
     image_card: img/ponentes/fichas/LidiaGomez
     twitter_account: 
-    linkedin_account: 
+    linkedin_account: lidiagomezsanz
     instagram_account: lidia.indesign
   - name: Sonia Martínez Becerra
     short_name: Sonia Martínez
@@ -291,6 +291,12 @@ sponsors_gold:
     web: https://www.540deg.com/
     twitter: 540deg
     instagram: 540deg
+  - name: K-LAGAN
+    text: 
+    image: img/patrocinadores/gold/klagan.png
+    web: https://www.k-lagan.com/index.html
+    twitter: KLAGAN_KLG
+    instagram: klagan_tech
 
 #sponsors_silver:
 #  - name: Empresa Genérica
