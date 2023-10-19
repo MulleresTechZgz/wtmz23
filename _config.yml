@@ -297,6 +297,12 @@ sponsors_gold:
     web: https://www.k-lagan.com/index.html
     twitter: KLAGAN_KLG
     instagram: klagan_tech
+  #- name: Vueling
+  #  text: 
+  #  image: img/patrocinadores/gold/vueling.png
+  #  web: https://www.vueling.com/es
+  #  twitter: vueling
+  #  instagram: vueling
 
 #sponsors_silver:
 #  - name: Empresa Genérica
@@ -306,13 +312,13 @@ sponsors_gold:
 #    twitter: 
 #    instagram:  
 
-#sponsors_others:
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa1.png
-#    web: #
-#    twitter: 
-#    instagram: 
+sponsors_others:
+  - name: Eboca
+    text: 
+    image: img/patrocinadores/colaboradores/eboca.png
+    web: https://www.eboca.com/
+    twitter: eboca
+    instagram: eboca
 
 # Agenda
 talks_track_1:
