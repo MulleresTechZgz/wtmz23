@@ -303,6 +303,12 @@ sponsors_gold:
   #  web: https://www.vueling.com/es
   #  twitter: vueling
   #  instagram: vueling
+  - name: Autentia
+    text: 
+    image: img/patrocinadores/gold/autentia.png
+    web: https://www.autentia.com/
+    twitter: autentia
+    instagram: autentia_team
 
 #sponsors_silver:
 #  - name: Empresa Genérica
@@ -319,6 +325,12 @@ sponsors_others:
     web: https://www.eboca.com/
     twitter: eboca
     instagram: eboca
+  - name: Etopia
+    text: 
+    image: img/patrocinadores/colaboradores/etopia.png
+    web: https://etopia.es/
+    twitter: etopia_
+    instagram: etopia_zgz
 
 # Agenda
 talks_track_1:
