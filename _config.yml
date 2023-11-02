@@ -28,6 +28,7 @@ copyright:
 # Tickets
 sold_out_tickets_first: true
 sold_out_tickets: true
+sold_out_workshop_tickets: false
 
 # Timezone
 timezone: Europe/Madrid
@@ -331,6 +332,18 @@ sponsors_others:
     web: https://etopia.es/
     twitter: etopia_
     instagram: etopia_zgz
+  - name: Pop It
+    text: 
+    image: img/patrocinadores/colaboradores/popit.png
+    web: https://popit.es/
+    twitter: palomitaspopit
+    instagram: palomitaspopit
+  - name: Ambar
+    text: 
+    image: img/patrocinadores/colaboradores/ambar.png
+    web: https://ambar.com/
+    twitter: cervezasambar
+    instagram: cervezasambar
 
 # Agenda
 talks_track_1:
