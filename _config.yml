@@ -298,12 +298,12 @@ sponsors_gold:
     web: https://www.k-lagan.com/index.html
     twitter: KLAGAN_KLG
     instagram: klagan_tech
-  #- name: Vueling
-  #  text: 
-  #  image: img/patrocinadores/gold/vueling.png
-  #  web: https://www.vueling.com/es
-  #  twitter: vueling
-  #  instagram: vueling
+  - name: Vueling
+    text: 
+    image: img/patrocinadores/gold/vueling.png
+    web: https://www.vueling.com/es
+    twitter: vueling
+    instagram: vueling
   - name: Autentia
     text: 
     image: img/patrocinadores/gold/autentia.png
