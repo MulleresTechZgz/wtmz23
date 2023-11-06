@@ -2,7 +2,8 @@
 <!--<hr class="section-heading-spacer" style="border-top: 5px solid #4285f4;width: 100%;">-->
 
 <section id="list-volunteers" class="speakers">
-  
+
+<div class="content-section-a">
 {% if site.volunteers %}
 <div class="container">
     <div class="row text-center">
@@ -22,6 +23,7 @@
           {% assign image_volunteer = volunteer.image | strip_newlines %}
           {% assign image_card_volunteer = volunteer.image_card | strip_newlines %}
           {% assign twitter_volunteer = volunteer.twitter_account | strip_newlines %}
+          {% assign instagram_volunteer = volunteer.instagram_account | strip_newlines %}
           {% assign linkedin_volunteer = volunteer.linkedin_account | strip_newlines %}
           {% assign linkedin_2_volunteer = volunteer.linkedin_account_2 | strip_newlines %}
           {% assign web_volunteer = volunteer.web | strip_newlines %}
@@ -54,6 +56,11 @@
                       {% if twitter_volunteer != ""  %}
                       <a href="https://twitter.com/{{ volunteer.twitter_account }}" target="_blank">
                         <i class="fa fa-twitter fa-fw fa-2x"></i>
+                      </a>
+                      {% endif %}
+                      {% if instagram_volunteer != ""  %}
+                      <a href="https://instagram.com/{{ volunteer.instagram_account }}" target="_blank">
+                        <i class="fa fa-instagram fa-fw fa-2x"></i>
                       </a>
                       {% endif %}
                       {% if linkedin_volunteer != ""  %}
@@ -105,6 +112,10 @@
                                {% if twitter_volunteer != ""  %}
                                 <a href="https://twitter.com/{{ volunteer.twitter_account }}" target="_blank">
                                     <i class="fa fa-twitter fa-fw fa-2x"></i></a>
+                                {% endif %}
+                                {% if instagram_volunteer != ""  %}
+                                <a href="https://instagram.com/{{ volunteer.instagram_account }}" target="_blank">
+                                    <i class="fa fa-instagram fa-fw fa-2x"></i></a>
                                 {% endif %}
                                 {% if linkedin_volunteer != ""  %}
                                 <a href="https://www.linkedin.com/in/{{ volunteer.linkedin_account }}" target="_blank">
@@ -169,4 +180,5 @@
     </div>
   </div>
 {% endif %}
+</div>
 </section>
