@@ -261,14 +261,55 @@ speakers:
 #    twitter_account: 
 
 #List for volunteers
-#volunteers:
-#  - name: Fulanita Detal
-#    short_name: Fulanita Detal
-#    bio: 'Fulanita Detal'
-#    image: img/ponentes/foto1
-#    image_card: 
-#    twitter_account: 
-#    linkedin_account:
+volunteers:
+  - name: Silvia Ballarín Enjuanes
+    short_name: Silvia Ballarín
+    bio: 'Soy una persona apasionada de las finanzas y si puede ser con programitas por el medio que nos faciliten la vida mucho mejor. Me gusta la naturaleza y me llena estar con mis amigos.'
+    image: img/voluntarias/SilviaBallarin
+    image_card: 
+    twitter_account: 
+    instagram_account: sballarine
+    linkedin_account: silviaballarin
+  #- name: Marta Liminiana
+  #  short_name: Marta Liminiana
+  #  bio: 'Desde peque me han gustado las mates, física y química. Estudié Telecos en Barcelona y empecé a trabajar en Telefónica en Madrid. Los 10 primeros años viajé mucho por trabajo ya que participaba en foros de estandarización (3GPP, TMForum...) siempre relacionado con los sistemas de gestión de las redes.. al principio móviles (3G, 4G...) y luego ya también mundo backbone (MPLS...). Desde el 2019 estoy en Telefónica Zaragoza llevando la red de Gobierno de Aragón (comunicaciones de sus sedes, CPDs, seguridad, WIFI... ). Me he involucrado desde pequeña en temas de voluntariado y desde que estoy aquí participo en Una Ingeniera en cada cole gracias a conoceros. Va a ser mi primer WTM.'
+  #  image: img/voluntarias/MartaLiminiana
+  #  image_card: 
+  #  twitter_account: martalimi
+  #  instagram_account: 
+  #  linkedin_account: 
+  - name: Lydia Logroño Ramas
+    short_name: Lydia Logroño
+    bio: 'Soy Lydia, tengo 24 años y desde pequeñita me ha gustado la tecnología y sobre todo, el mundo de la informática. Actualmente estoy trabajando en el departamento de IT en una empresa de Fotovoltaica y Energía renovables mientras estudio la ingeniería informática.'
+    image: img/voluntarias/LydiaLogrono
+    image_card: 
+    twitter_account: Lydiapedrola
+    instagram_account: lydia_pedrola
+    linkedin_account: lydia-logroño-ramas-a14188174
+  - name: Nieves Martínez Ruz 
+    short_name: Nieves Martínez
+    bio: 'Soy Nieves tengo 24 años, estoy finalizando mis estudios de ingeniería eléctrica. Desde pequeña he sentido mucha curiosidad por la tecnología por ello me gustaría desarrollar una vida profesional relacionada con ello. Me apasiona aprender, leer, practicar deporte, cocinar y sobre todo pasar tiempo junto a personas a las que quiero.'
+    image: img/voluntarias/NievesMartinez
+    image_card: 
+    twitter_account: 
+    instagram_account: 
+    linkedin_account: 
+  #- name: Ana C. (Lana) Pascual 
+  #  short_name: Ana C. (Lana) Pascual 
+  #  bio: 'Tras muuuchos años en RRHH, hace unos añitos empecé a en desarrollo web, UX, Agile... (porque lo que mola es el mundo tecnológico, reconozcámoslo).<br/>Hasta que hice un salto al vacío y me fui a una empresa de Desarrollo de software. <br/>Y ahora soy SM y PO, y posiblemente alguna sigla más de la que que ahora no recuerdo.'
+  #  image: img/voluntarias/AnaCPascual
+  #  image_card: 
+  #  twitter_account: 
+  #  instagram_account: 
+  #  linkedin_account: acpascual
+  - name: María Cristina Ventura Tomás
+    short_name: María Cristina Ventura
+    bio: 'Soy informática vocacional. Mi labor profesional se centra en el mundo del Big Data, la IA y el Internet of Things, sobre todo en entornos cloud.'
+    image: img/voluntarias/MariaCristinaVentura
+    image_card: 
+    twitter_account: 
+    instagram_account: 
+    linkedin_account: mcristinav
 
 #List for sponsors
 #sponsors_platinum:

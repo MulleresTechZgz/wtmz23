@@ -311,7 +311,13 @@ hr.small {
 
 .speaker-item {
     margin-bottom: 30px;
-    min-height: 160px;
+    min-height: 180px;
+}
+@media (max-width: 768px) and (min-width: 320px){
+    .speaker-item {
+        margin-bottom: 30px;
+        min-height: 200px;
+    }
 }
 
 .speaker-item a {
