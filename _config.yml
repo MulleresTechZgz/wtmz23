@@ -270,14 +270,22 @@ volunteers:
     twitter_account: 
     instagram_account: sballarine
     linkedin_account: silviaballarin
-  #- name: Marta Liminiana
-  #  short_name: Marta Liminiana
-  #  bio: 'Desde peque me han gustado las mates, física y química. Estudié Telecos en Barcelona y empecé a trabajar en Telefónica en Madrid. Los 10 primeros años viajé mucho por trabajo ya que participaba en foros de estandarización (3GPP, TMForum...) siempre relacionado con los sistemas de gestión de las redes.. al principio móviles (3G, 4G...) y luego ya también mundo backbone (MPLS...). Desde el 2019 estoy en Telefónica Zaragoza llevando la red de Gobierno de Aragón (comunicaciones de sus sedes, CPDs, seguridad, WIFI... ). Me he involucrado desde pequeña en temas de voluntariado y desde que estoy aquí participo en Una Ingeniera en cada cole gracias a conoceros. Va a ser mi primer WTM.'
-  #  image: img/voluntarias/MartaLiminiana
-  #  image_card: 
-  #  twitter_account: martalimi
-  #  instagram_account: 
-  #  linkedin_account: 
+  - name: Esther Illana López
+    short_name: Esther Illana
+    bio: 'Docente de medios informáticos aplicados a artes plásticas y diseño. Mi carrera siempre ha ido de la mano de las nuevas tecnologías, la creatividad y el arte. Me interesan el desarrollo web, el diseño UX/UI, web y gráfico, así como cualquier herramienta o aplicación del campo de la creación digital'
+    image: img/voluntarias/EstherIllana
+    image_card: 
+    twitter_account: eillanae
+    instagram_account: eillanae
+    linkedin_account: esther-illana-lopez
+  - name: Marta Liminiana
+    short_name: Marta Liminiana
+    bio: 'Estudió Telecos en la UPC y trabaja en Telefónica. Justo antes de la pandemia se mudó a Zaragoza para sumergirse en las comunicaciones y tecnologías que están detrás de los servicios de Gobierno de Aragón. Apasionada de acercar la tecnología a las personas para mejorar sus vidas en voluntariados de emprendimiento social, formación digital para coles, familias y niños, 11F, Una Ingeniera en cada Cole.<br/>Curiosidad: ¿sabes cuál es el edificio más alto de Zaragoza? ¡El Pirulí! 😊'
+    image: img/voluntarias/MartaLiminiana
+    image_card: 
+    twitter_account: martalimi
+    instagram_account: 
+    linkedin_account: 
   - name: Lydia Logroño Ramas
     short_name: Lydia Logroño
     bio: 'Soy Lydia, tengo 24 años y desde pequeñita me ha gustado la tecnología y sobre todo, el mundo de la informática. Actualmente estoy trabajando en el departamento de IT en una empresa de Fotovoltaica y Energía renovables mientras estudio la ingeniería informática.'
