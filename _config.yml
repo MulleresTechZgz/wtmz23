@@ -387,12 +387,12 @@ sponsors_others:
     web: https://popit.es/
     twitter: palomitaspopit
     instagram: palomitaspopit
- # - name: Ambar
- #   text: 
- #   image: img/patrocinadores/colaboradores/ambar.png
- #   web: https://ambar.com/
- #   twitter: cervezasambar
- #   instagram: cervezasambar
+  - name: Estrella Damm
+    text: 
+    image: img/patrocinadores/colaboradores/estrelladamm.png
+    web: https://www.estrelladamm.com/
+    twitter: EstrellaDammEs
+    instagram: estrelladamm
 
 # Agenda
 talks_track_1:
