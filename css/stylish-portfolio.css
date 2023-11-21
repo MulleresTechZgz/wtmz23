@@ -379,6 +379,13 @@ hr.small {
     background-color: #0076a7;
     height: 33vw !important;
 }
+.modal-youtube-video {
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    background-color: #0076a7;
+    height: 33vw !important;
+}
 .modal-shirt-sizing-card {
     background-position: center;
     background-repeat: no-repeat; 
@@ -414,6 +421,12 @@ hr.small {
     .modal-image-card {
         height: 68vw !important;
     }
+    .modal-youtube-video {
+        height: 68vw !important;
+    }
+    .modal-youtube-video iframe {
+        height: 65% !important;
+    }
     .modal-shirt-sizing-card {
         height: 33vw !important;
     }
@@ -423,6 +436,10 @@ hr.small {
     .modal-image-card {
         height: 59vw !important;
     }
+    .modal-youtube-video {
+        height: 59vw !important;
+    }
+    
     .modal-shirt-sizing-card {
         height: 26vw !important;
     }
@@ -430,6 +447,9 @@ hr.small {
 
 @media (min-width: 992px) and (max-width: 1025px) {
     .modal-image-card {
+        height: 44vw !important;
+    }
+    .modal-youtube-video {
         height: 44vw !important;
     }
     .modal-shirt-sizing-card {
