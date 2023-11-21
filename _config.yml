@@ -420,7 +420,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla001
-    url_youtube: 
+    url_youtube: JEdupBhA3KQ
   - time: '10:55-11:30'
     track: 1
     name: 'Al ritmo de Beat Saber llevando el UX a otro nivel'
@@ -430,7 +430,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla002
-    url_youtube: 
+    url_youtube: lMAi1iEUPXM
   - time: '11:35-12:10'
     track: 1
     name: 'Diseño vs Desarrollo. El milagro del match entre dos polos opuestos'
@@ -440,7 +440,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla003
-    url_youtube:
+    url_youtube: 4rTMRcexWaI
   - time: '12:15-12:45'
     track: all
     name: 'DESCANSO CAFÉ'
@@ -457,7 +457,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla004
-    url_youtube: 
+    url_youtube: 5LONDHgcBPg
   - time: '13:25-14:00'
     track: 1
     name: '¿Computación Cuántica: El Futuro de la Tecnología o Ciencia Ficción?'
@@ -467,7 +467,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla005
-    url_youtube: 
+    url_youtube: 1t6i1ZSYLW4
   - time: '14:05-14:25'
     track: 1
     name: 'Charla pendiente de anunciar'
@@ -501,7 +501,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla006
-    url_youtube: 
+    url_youtube: b4lkKZxfv3U
   - time: '16:40-17:15'
     track: 1
     name: 'Dungeons & Datos: Bestiario de antipatrones y cómo derrotarlos'
@@ -511,7 +511,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla007
-    url_youtube: 
+    url_youtube: gIFy67KqDLo
   - time: '17:20-17:55'
     track: 1
     name: 'Las Self-Orgs y cómo llevar tu empresa a un nuevo paradigma'
@@ -521,7 +521,7 @@ talks_track_1:
     bio_speaker: 
     twitter_speaker: 
     image_card: img/charlas/Charla008
-    url_youtube:
+    url_youtube: 9LF1k6b9pPs
   - time: '18:00-18:25'
     track: all
     name: 'CIERRE Staff WTM Zaragoza'
